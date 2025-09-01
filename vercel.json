@@ -1,15 +1,16 @@
 {
   "version": 2,
   "public": true,
-  "buildCommand": null,
-  "outputDirectory": "public",
-  "installCommand": null,
-  "framework": null,
-  "functions": {},
+  "cleanUrls": true,
+  "trailingSlash": false,
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "/public/$1"
+    },
+    {
+      "src": "/",
+      "dest": "/public/index.html"
     }
   ]
 }
