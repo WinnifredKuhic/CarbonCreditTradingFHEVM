@@ -34,14 +34,14 @@ The contract implements privacy-preserving functions for:
 
 ## 🎥 Platform Demonstration
 
-### Demo Video
+### CarbonCreditTradingFHEVM.mp4
 The platform includes comprehensive video demonstrations showcasing:
 - User registration and wallet connection
 - Private carbon credit issuance process
 - Confidential trading mechanisms
 - Real-time balance updates with encryption
 
-### On-chain Transaction Evidence
+### Transaction Evidence
 Screenshot documentation of successful blockchain transactions demonstrating:
 - Contract deployment and verification
 - User registration transactions
